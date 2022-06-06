@@ -1,0 +1,32 @@
+body {
+    background-color: darkslategray;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+}
+
+#title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: crimson;
+    font-weight: bold;
+}
+
+.test_image_and_result {
+    background-color: dimgray;
+    border-radius: 40%;
+}
+
+b, h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-weight: 500;
+}
+
+h4 {
+    color: orangered;
+    font-weight: 700;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
